@@ -1,0 +1,46 @@
+input ,select{
+    width: 800px;
+    display: inline-block;
+    padding: 8px 8px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#a1{
+    background-color: rgb(221, 220, 220);
+    padding: 10px;
+    border-radius: 4px;
+    width: 820px;
+    margin-left: 200px;
+}
+.a2{
+    margin-left: 10px;
+}
+input[type=submit] {
+    width: 80px;
+    padding: 8px 8px;
+    border: none;
+    border-radius: 4px;
+    margin: 8px 8px;
+    background-color: rgb(61, 114, 213);
+   color: aliceblue;
+   cursor: pointer;
+   margin-left: 730px;
+}
+#a4:hover{
+    background-color: rgb(166, 189, 232);
+    color: black
+}
+#subject{
+   height: 100px;
+   width: 780px;  
+   margin-left: 8px;
+   margin-top: 10px;
+   padding: 10px;
+}
+#a6{
+    margin-left: 200px;
+}
+
+
